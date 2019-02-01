@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4b06faf-042c-49a4-a45b-bceb4b443359" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello_world/hello.clj" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/hello_world/hello.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Clojure Namespace" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/project.clj" />
+        <option value="$PROJECT_DIR$/src/hello_world/core.clj" />
+        <option value="$PROJECT_DIR$/src/hello_world/hello.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="44" />
+    <option name="width" value="1346" />
+    <option name="height" value="680" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hello_world" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="cursive.last.file.extension./home/pedro/Cursos/Clojure/pedestal-guides/hello-world/src" value="clj" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Clojure" />
+  </component>
+  <component name="ReplState" timestamp="1545427531134">{:repl-history {:ide [], :local [{:command &quot;(def s \&quot;pedro\&quot;)&quot;, :offset 15, :ns &quot;hello-world.core&quot;} {:command &quot;(type s)&quot;, :offset 8, :ns &quot;hello-world.core&quot;} {:command &quot;(type \\z)&quot;, :offset 9, :ns &quot;hello-world.core&quot;} {:command &quot;(subs s 0 1)&quot;, :offset 12, :ns &quot;hello-world.core&quot;} {:command &quot;(find-doc subs)&quot;, :offset 15, :ns &quot;hello-world.core&quot;} {:command &quot;(find-doc \&quot;subs\&quot;)&quot;, :offset 17, :ns &quot;hello-world.core&quot;} {:command &quot;(subs s 1)&quot;, :offset 10, :ns &quot;hello-world.core&quot;} {:command &quot;(. toString \\p)&quot;, :offset 15, :ns &quot;hello-world.core&quot;} {:command &quot;(.toUpperCase (subs s 1))&quot;, :offset 25, :ns &quot;hello-world.core&quot;} {:command &quot;(-&gt; subs s 1\n    .toUpperCase)&quot;, :offset 30, :ns &quot;hello-world.core&quot;} {:command &quot;(-&gt; s\n    subs 1\n    .toUpperCase)&quot;, :offset 34, :ns &quot;hello-world.core&quot;} {:command &quot;(--&gt; s\n    (subs 1)\n    (.toUpperCase))&quot;, :offset 39, :ns &quot;hello-world.core&quot;} {:command &quot;(-&gt;&gt; s\n    (subs 1)\n    (.toUpperCase))&quot;, :offset 39, :ns &quot;hello-world.core&quot;} {:command &quot;(--&gt; (.toUpperCase)\n     (subs 1)\n     s)&quot;, :offset 41, :ns &quot;hello-world.core&quot;} {:command &quot;(--&gt; (.toUpperCase s)\n     (subs 1))&quot;, :offset 36, :ns &quot;hello-world.core&quot;} {:command &quot;(-&gt;&gt; (.toUpperCase s)\n     (subs 1))&quot;, :offset 36, :ns &quot;hello-world.core&quot;} {:command &quot;(-&gt;&gt; s\n     (.toUpperCase)\n     (subs 1))&quot;, :offset 41, :ns &quot;hello-world.core&quot;} {:command &quot;(-&gt;&gt; (subs s 1)\n     (.toUpperCase))&quot;, :offset 36, :ns &quot;hello-world.core&quot;} {:command &quot;(-&gt; (subs s 1)\n     (.toUpperCase))&quot;, :offset 35, :ns &quot;hello-world.core&quot;} {:command &quot;(-&gt;&gt; (.toUpperCase)\n     (subs 1)\n     s)&quot;, :offset 41, :ns &quot;hello-world.core&quot;} {:command &quot;(-&gt; s\n     (.toUpperCase)\n     (subs 1))&quot;, :offset 40, :ns &quot;hello-world.core&quot;} {:command &quot;(-&gt; s\n    (subs 1)\n    (.toUpperCase))&quot;, :offset 38, :ns &quot;hello-world.core&quot;} {:command &quot;(join \&quot;Pe\&quot; \&quot;dro\&quot;)&quot;, :offset 17, :ns &quot;hello-world.core&quot;} {:command &quot;(join '(\&quot;Pe\&quot; \&quot;Pa\&quot;))&quot;, :offset 19, :ns &quot;hello-world.core&quot;} {:command &quot;(seq \&quot;Pe\&quot; \&quot;Pa\&quot;)&quot;, :offset 15, :ns &quot;hello-world.core&quot;} {:command &quot;(type '(\&quot;pe\&quot; \&quot;pa\&quot;))&quot;, :offset 19, :ns &quot;hello-world.core&quot;} {:command &quot;(seq '(\&quot;pe\&quot; \&quot;pa\&quot;))&quot;, :offset 18, :ns &quot;hello-world.core&quot;} {:command &quot;(\&quot;pe\&quot; \&quot;pa\&quot;)&quot;, :offset 11, :ns &quot;hello-world.core&quot;} {:command &quot;((type seq '(\&quot;pe\&quot; \&quot;pa\&quot;)))&quot;, :offset 25, :ns &quot;hello-world.core&quot;} {:command &quot;(type (seq '(\&quot;pe\&quot; \&quot;pa\&quot;)))&quot;, :offset 25, :ns &quot;hello-world.core&quot;} {:command &quot;(join (seq '(\&quot;pe\&quot; \&quot;pa\&quot;)))&quot;, :offset 25, :ns &quot;hello-world.core&quot;} {:command &quot;(reverse s)&quot;, :offset 11, :ns &quot;hello-world.core&quot;} {:command &quot;(str/reverse s)&quot;, :offset 15, :ns &quot;hello-world.core&quot;} {:command &quot;(string/reverse s)&quot;, :offset 18, :ns &quot;hello-world.core&quot;} {:command &quot;(clojure.string/reverse s)&quot;, :offset 26, :ns &quot;hello-world.core&quot;} {:command &quot;(clojure.string/join \&quot;pe\&quot; \&quot;pa\&quot;)&quot;, :offset 31, :ns &quot;hello-world.core&quot;} {:command &quot;(clojure.string/join '(\&quot;pe\&quot; \&quot;pa\&quot;))&quot;, :offset 34, :ns &quot;hello-world.core&quot;} {:command &quot;(clojure.string/join '(\\p \\e))&quot;, :offset 30, :ns &quot;hello-world.core&quot;} {:command &quot;(require 'core)&quot;, :offset 15, :ns &quot;user&quot;} {:command &quot;(foo \&quot;oi\&quot;)&quot;, :offset 10, :ns &quot;user&quot;} {:command &quot;(foo)&quot;, :offset 5, :ns &quot;hello-world.core&quot;} {:command &quot;(in-ns 'hello-world.hello)&quot;, :offset 26, :ns &quot;hello-world.core&quot;} {:command &quot;(respond-hello \&quot;oi\&quot;)&quot;, :offset 20, :ns &quot;hello-world.hello&quot;} {:command &quot;(respond-hello {})&quot;, :offset 18, :ns &quot;hello-world.hello&quot;} {:command &quot;(def routes\n  (route/expand-routes #{[\&quot;/greet\&quot; :get respond-hello :route-name :greet]}))&quot;, :offset 88, :ns &quot;hello-world.hello&quot;} {:command &quot;io.pedestal.http.route.linear-search&quot;, :offset 36, :ns &quot;hello-world.core&quot;} {:command &quot;routess&quot;, :offset 7, :ns &quot;hello-world.hello&quot;} {:command &quot;routex&quot;, :offset 6, :ns &quot;hello-world.hello&quot;} {:command &quot;(respond-hello \&quot;\&quot;)&quot;, :offset 18, :ns &quot;hello-world.core&quot;} {:command &quot;(def m {'nome \&quot;Pedro\&quot; 'age 37 'sex \&quot;M\&quot;})&quot;, :offset 40, :ns &quot;hello-world.core&quot;} {:command &quot;(m 'nome)&quot;, :offset 9, :ns &quot;hello-world.core&quot;} {:command &quot;('nome m)&quot;, :offset 9, :ns &quot;hello-world.core&quot;} {:command &quot;(def book [\&quot;Memórias Póstumas\&quot; \&quot;Machado de Assis\&quot;])&quot;, :offset 51, :ns &quot;hello-world.core&quot;} {:command &quot;(if (vector? book)\n  {:titulo (first book) :autor (second book)})&quot;, :offset 65, :ns &quot;hello-world.core&quot;} {:command &quot;(first \&quot;alo\&quot;)&quot;, :offset 13, :ns &quot;hello-world.core&quot;} {:command &quot;(second \&quot;alo\&quot;)&quot;, :offset 14, :ns &quot;hello-world.core&quot;} {:command &quot;type (\\a)&quot;, :offset 9, :ns &quot;hello-world.core&quot;} {:command &quot;(type \\a)&quot;, :offset 9, :ns &quot;hello-world.core&quot;} {:command &quot;(type \&quot;a\&quot;)&quot;, :offset 10, :ns &quot;hello-world.core&quot;} {:command &quot;(rest \&quot;alo\&quot;)&quot;, :offset 12, :ns &quot;hello-world.core&quot;} {:command &quot;(.concat (rest \&quot;alo\&quot;))&quot;, :offset 22, :ns &quot;hello-world.core&quot;} {:command &quot;(.concat \\l \\o)&quot;, :offset 15, :ns &quot;hello-world.core&quot;} {:command &quot;(.concat (str \\l) (str \\o))&quot;, :offset 27, :ns &quot;hello-world.core&quot;} {:command &quot;(reduce #(.concat (str %1) (str %2)) (rest \&quot;alo\&quot;))&quot;, :offset 50, :ns &quot;hello-world.core&quot;} {:command &quot;(reduce #(.concat (str %1) (str %2)) (rest \&quot;aloha\&quot;))&quot;, :offset 52, :ns &quot;hello-world.core&quot;} {:command &quot;book&quot;, :offset 4, :ns &quot;hello-world.core&quot;} {:command &quot;(def bk1 {:title \&quot;1984\&quot; :author \&quot;Orwell\&quot;})&quot;, :offset 42, :ns &quot;hello-world.core&quot;} {:command &quot;(def bk2 {:title \&quot;Senhora\&quot; :by \&quot;José Alencar\&quot;})&quot;, :offset 47, :ns &quot;hello-world.core&quot;} {:command &quot;(defn publ-book [b]\n  {:pre [:author b]}\n  (println (:title book)))&quot;, :offset 67, :ns &quot;hello-world.core&quot;} {:command &quot;bk1&quot;, :offset 3, :ns &quot;hello-world.core&quot;} {:command &quot;(publ-book bk1)&quot;, :offset 15, :ns &quot;hello-world.core&quot;} {:command &quot;(publ-book bk2)&quot;, :offset 15, :ns &quot;hello-world.core&quot;} {:command &quot;bk2&quot;, :offset 3, :ns &quot;hello-world.core&quot;} {:command &quot;(:author bk2)&quot;, :offset 13, :ns &quot;hello-world.core&quot;} {:command &quot;(:author bk1)&quot;, :offset 13, :ns &quot;hello-world.core&quot;} {:command &quot;(defn publ-book1 [b]\n  {:pre [(:author b)]}\n  (print (:title b)))&quot;, :offset 65, :ns &quot;hello-world.core&quot;} {:command &quot;(defn publ-book1 [b]\n  {:pre [(or (:by b) (:author b))]}\n  (print (:title b)))&quot;, :offset 78, :ns &quot;hello-world.core&quot;} {:command &quot;(publ-book1 bk1)&quot;, :offset 16, :ns &quot;hello-world.core&quot;} {:command &quot;(publ-book1 bk2)&quot;, :offset 16, :ns &quot;hello-world.core&quot;} {:command &quot;(publ-book1 {:title \&quot;Fausto\&quot; :year 1789})&quot;, :offset 41, :ns &quot;Senhora&quot;} {:command &quot;(respond-hello)&quot;, :offset 15, :ns &quot;hello-world.core&quot;} {:command &quot;ring.util.request&quot;, :offset 17, :ns &quot;hello-world.core&quot;} {:command &quot;routes&quot;, :offset 6, :ns &quot;hello-world.core&quot;} {:command &quot;(defn respond-hello [request]\n  (println request)\n  {:status 200 :body \&quot;Hello, World!\\n\&quot;})&quot;, :offset 90, :ns &quot;hello-world.hello&quot;} {:command &quot;(respond-hello [])&quot;, :offset 18, :ns &quot;hello-world.core&quot;} {:command &quot;(comeca)&quot;, :offset 8, :ns &quot;hello-world.core&quot;} {:command &quot;(Math/abs -1.5)&quot;, :offset 15, :ns &quot;hello-world.core&quot;} {:command &quot;(#(Math/abs (- 3.54 %)) [1 2 3 4])&quot;, :offset 34, :ns &quot;hello-world.core&quot;} {:command &quot;(first (sort-by #(abs (- 3.54 %)) [1 2 3 4]))&quot;, :offset 45, :ns &quot;hello-world.core&quot;} {:command &quot;(first (sort-by #(Math/abs (- 3.54 %)) [1 2 3 4]))&quot;, :offset 50, :ns &quot;hello-world.core&quot;} {:command &quot;(sort '(b a f g h))&quot;, :offset 19, :ns &quot;hello-world.core&quot;} {:command &quot;(min-key [3.54 [1 2 3 4]])&quot;, :offset 26, :ns &quot;hello-world.core&quot;} {:command &quot;(min-key [3.54])&quot;, :offset 16, :ns &quot;hello-world.core&quot;} {:command &quot;(min-key )&quot;, :offset 10, :ns &quot;hello-world.core&quot;} {:command &quot;(min-key 3.54 [1 2 3])&quot;, :offset 22, :ns &quot;hello-world.core&quot;} {:command &quot;(min-key [1 2 3 4] 3.54)&quot;, :offset 24, :ns &quot;hello-world.core&quot;} {:command &quot;(min-key #(Math/abs %) [1 2 3 4])&quot;, :offset 33, :ns &quot;hello-world.core&quot;} {:command &quot;(min-key #(Math/abs (- 3.54 %)) 1 2 3 4)&quot;, :offset 40, :ns &quot;hello-world.core&quot;} {:command &quot;(min-key #(Math/abs (- 3.54 %)) 3 4 1 2)&quot;, :offset 40, :ns &quot;hello-world.core&quot;} {:command &quot;(min-key #(Math/abs (- 3.54 %)) [1 2 3 4])&quot;, :offset 42, :ns &quot;hello-world.core&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Clojure Application.hello-world.hello">
+    <configuration name="REPL for hello-world" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="hello-world" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="0" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hello-world.hello" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="hello-world" />
+      <setting name="path" value="$PROJECT_DIR$/src/hello_world/hello.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/src/hello_world" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4b06faf-042c-49a4-a45b-bceb4b443359" name="Default Changelist" comment="" />
+      <created>1543955627590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543955627590</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="44" width="1346" height="680" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27966103" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32909092" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32909092" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info active="true" anchor="right" id="REPL" order="4" sideWeight="0.5018182" side_tool="true" visible="true" weight="0.32973805" />
+      <window_info anchor="right" id="Leiningen" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.49818182" weight="0.32973805" />
+      <window_info anchor="right" id="Maven" order="8" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hello_world/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/clojure/1.9.0/clojure-1.9.0.jar!/clojure/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="4920" column="6" selection-start-line="4920" selection-start-column="6" selection-end-line="4920" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/pedestal/pedestal.route/0.5.4/pedestal.route-0.5.4.jar!/io/pedestal/http/route/definition.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="70" column="6" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/pedestal/pedestal.route/0.5.4/pedestal.route-0.5.4.jar!/io/pedestal/http/route.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="423" column="31" selection-start-line="423" selection-start-column="31" selection-end-line="423" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hello_world/hello.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
